@@ -3,7 +3,8 @@
   SPDX-License-Identifier: AGPL-3.0-only
 -->
 
-# HCALC
+# HCALC Hitanshu Gedam 
+(श्राप)
 
 **A nested contraction recurrence, specified in prose, checked in Alloy, formalized in Lean 4, implemented in J, and scored by a fail-open harness.**
 
